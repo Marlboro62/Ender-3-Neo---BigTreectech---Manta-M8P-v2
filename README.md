@@ -2,7 +2,7 @@
 
 Fichiers concue pour une ender 3 neo (v1) modifier 
 
-actuellement ses fichier son prevue pour
+Actuellement ses fichiers son prevue pour
 - BIGTREETECH MANTA M8P V2 avec TMC2209 V1.3
 - BIGTREETECH BTT CB2
 - Écran tactile BIGTREETECH TFT35 SPI V2.1
@@ -45,7 +45,7 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
  - Creality Officiel Kit de mise à niveau Ender 3 double axe Z : https://amzn.to/41vcLaL
  - Creality Officiel Silicone Colonne de Nivellement de lit : https://amzn.to/3DxJGn9
  - Creality Official CR Touch Auto Bed : https://amzn.to/43MyYDI
- - Creality Ender 3 V2 Filament Detector : https://amzn.to/4byE5cG
+ - Creality Official Ender 3 V2 Filament Detector : https://amzn.to/4byE5cG
  - Creality Officiel ADXL345 Capteur de compensation de vibrations : https://amzn.to/3DMysv1
  - Creality Officiel Ender 3 Lit en Verre Amélioré Haute Dureté : https://amzn.to/4iuu42J
  - Creality Official Sprite Extruder Pro Dual Gear Feeding All Metal : https://amzn.to/4iqxa7Y
