@@ -32,10 +32,11 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
 
 
   Lien Affilation Amazon :
-  BIGTREETECH TMC2209 V1.3 Pilote de Moteur pas à pas : https://amzn.to/4i7zXmx
-  BIGTREETECH Manta M8P V2.0  : https://amzn.to/3Fyueru
-  BIGTREETECH CB1 : https://amzn.to/4iRQ3jQ
-  BIGTREETECH TFT35 SPI V2.1 : https://amzn.to/43V928W
+  
+ - BIGTREETECH TMC2209 V1.3 Pilote de Moteur pas à pas : https://amzn.to/4i7zXmx
+ - BIGTREETECH Manta M8P V2.0  : https://amzn.to/3Fyueru
+ - BIGTREETECH CB1 : https://amzn.to/4iRQ3jQ
+ - BIGTREETECH TFT35 SPI V2.1 : https://amzn.to/43V928W
 
   Creality Officiel Kit de mise à niveau Ender 3 double axe Z : https://amzn.to/41vcLaL
   Creality Officiel Silicone Colonne de Nivellement de lit : https://amzn.to/3DxJGn9
