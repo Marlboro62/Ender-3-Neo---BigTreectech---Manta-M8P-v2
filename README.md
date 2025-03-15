@@ -31,7 +31,7 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
   https://github.com/Arksine/katapult
 
 
-#  Lien Affilation Amazon :
+#  Liens Affilations Amazon :
 
   #  BIGTREETECH
   
@@ -39,7 +39,7 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
  - BIGTREETECH Manta M8P V2.0  : https://amzn.to/3Fyueru
  - BIGTREETECH TFT35 SPI V2.1 : https://amzn.to/43V928W
  - BIGTREETECH CB2 ** : https://amzn.to/3FHRiDY
- - BIGTREETECH CB1 **: https://amzn.to/4iRQ3jQ
+ - BIGTREETECH CB1 ** : https://amzn.to/4iRQ3jQ
    ##  Voir le bas de la page pour voir les difference entre CB1 & CB2
    
   # CREALITY
