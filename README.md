@@ -59,9 +59,10 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
   # ADAPTABLE ENDER
   Tendeur de Courroie de Distribution Stretch 2020 X-axis et 2040 Profile Y-axis Mises à Niveau pour l'imprimante 3D Creality Ender 3 Pro Ender 3 V2 : https://amzn.to/3Dvy2Ju
 
-  # DIFFERENCEQ ENTRE CB1 & CB2 BigTreeTech :
+  # DIFFERENCES ENTRE CB1 & CB2 BigTreeTech :
 
-  Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 3D développées par BIGTREETECH. Elles sont principalement utilisées pour remplacer les cartes de contrôle classiques dans les imprimantes 3D, offrant des performances améliorées et une connectivité plus moderne.
+  Les cartes BIGTREETECH CB1 et CB2 sont des cartes de contrôle pour imprimantes 3D développées par BIGTREETECH. 
+  Elles sont principalement utilisées pour remplacer les cartes de contrôle classiques dans les imprimantes 3D, offrant des performances améliorées et une connectivité plus moderne.
 
 Voici les différences principales entre les CB1 et CB2 :
 
