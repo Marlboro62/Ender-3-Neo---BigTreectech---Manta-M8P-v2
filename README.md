@@ -55,7 +55,8 @@ Spoolman est un service web auto-hébergé conçu pour vous aider à gérer effi
  - Creality Official Ender 3 V2 Kit de plateau chauffant d'origine jusqu'à 110 °C : https://amzn.to/43QcYrE
  - Creality Official Lot de 20 buses en laiton : https://amzn.to/4kTlNXH
  - Creality Officiel Capteur de thermistance d'origine Ender 3 S1 : https://amzn.to/4hcK5ZQ
-
+ - Ender Lot de 6 rouleaux de roulement à billes pour imprimante 3D : https://amzn.to/3FxFJzr
+   
   # ADAPTABLE ENDER
   Tendeur de Courroie de Distribution Stretch 2020 X-axis et 2040 Profile Y-axis Mises à Niveau pour l'imprimante 3D Creality Ender 3 Pro Ender 3 V2 : https://amzn.to/3Dvy2Ju
 
